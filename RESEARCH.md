@@ -32,3 +32,6 @@ Nothing yet.
 
 ### Observation
 "C# on a Mac" sounds more exotic than it actually is in 2026.
+
+### Human in the loop
+Day 0 AI got in the way: AI initialized Git one directory too deep. Human caught it immediately and fixed
