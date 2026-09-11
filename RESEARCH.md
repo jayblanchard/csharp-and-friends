@@ -34,4 +34,8 @@ Nothing yet.
 "C# on a Mac" sounds more exotic than it actually is in 2026.
 
 ### Human in the loop
-Day 0 AI got in the way: AI initialized Git one directory too deep. Human caught it immediately and fixed
+Day 0 AI got in the way: AI initialized Git one directory too deep. Human caught it immediately and fixed. 
+
+Day 0 AI got in the way: AI gave a command assuming the traditional .sln filename. .NET 10 created the newer .slnx format by default, causing the command to fail.
+
+Lesson: AI's conceptual knowledge was correct, but its tooling assumption was stale. Verify generated artifacts rather than assuming filenames.
