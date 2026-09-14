@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DioramaContinuity.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00ec4ffda5d1d0b726e50015724eadbcba745cc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+073b10498db2228ed138f0260e39e8512b80beac")]
 [assembly: System.Reflection.AssemblyProductAttribute("DioramaContinuity.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DioramaContinuity.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
