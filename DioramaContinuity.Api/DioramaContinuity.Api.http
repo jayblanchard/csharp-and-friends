@@ -1,6 +1,6 @@
 @DioramaContinuity.Api_HostAddress = http://localhost:5217
 
-GET {{DioramaContinuity.Api_HostAddress}}/weatherforecast/
+GET {{DioramaContinuity.Api_HostAddress}}/dioramacontinuity/
 Accept: application/json
 
 ###
